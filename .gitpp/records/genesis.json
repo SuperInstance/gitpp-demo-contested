@@ -1,0 +1,10 @@
+{
+  "author": "harbor-master",
+  "effects": {
+    "harbor.state": "open",
+    "project": "contested-demo"
+  },
+  "id": "genesis",
+  "kind": "task",
+  "parents": []
+}

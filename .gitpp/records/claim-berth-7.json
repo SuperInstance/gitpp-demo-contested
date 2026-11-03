@@ -1,0 +1,12 @@
+{
+  "author": "agent-north",
+  "effects": {
+    "berth.7": "agent-north"
+  },
+  "id": "claim-berth-7",
+  "kind": "task",
+  "parents": [
+    "genesis"
+  ],
+  "reason": "agent-north claims berth 7 for the night run"
+}

@@ -1,0 +1,11 @@
+{
+  "author": "agent-south",
+  "effects": {},
+  "id": "dispute-claim",
+  "kind": "dispute",
+  "parents": [
+    "claim-berth-7"
+  ],
+  "reason": "the claim was written off a stale view: freeze-1 had already frozen the harbor, so berth 7 was never agent-north's to take",
+  "target": "claim-berth-7"
+}

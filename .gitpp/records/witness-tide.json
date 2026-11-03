@@ -1,0 +1,11 @@
+{
+  "author": "agent-south",
+  "effects": {
+    "tide.gauge": "rising"
+  },
+  "id": "witness-tide",
+  "kind": "witness",
+  "parents": [
+    "freeze-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "author": "harbor-master",
+  "effects": {
+    "harbor.state": "frozen"
+  },
+  "id": "freeze-1",
+  "kind": "override",
+  "parents": [
+    "genesis"
+  ],
+  "reason": "storm front inbound - harbor frozen to all berth claims"
+}

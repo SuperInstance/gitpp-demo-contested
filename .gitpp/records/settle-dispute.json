@@ -1,0 +1,11 @@
+{
+  "author": "harbor-master",
+  "dispute": "dispute-claim",
+  "effects": {},
+  "id": "settle-dispute",
+  "kind": "settlement",
+  "parents": [
+    "dispute-claim"
+  ],
+  "resolution": "upheld"
+}
